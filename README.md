@@ -4,7 +4,7 @@ DevChain SRL Free Workshops
 ### First steps
 (junior level tutorials)
 
-* [Git beginner guide](git-beginners-guide)
+* [Git beginner guide](git-beginners-guide/docs)
 
 --- 
 
